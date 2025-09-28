@@ -1,0 +1,412 @@
+Início da Janela,Fim da Janela,Média de Transições,Transições
+1,9,1.5555555555555556,"C -> H (Posição 6, 6/36 variantes); C -> H (Posição 7, 5/36 variantes); C -> H (Posição 5, 2/36 variantes)"
+2,10,1.6666666666666667,"C -> H (Posição 6, 6/36 variantes); C -> H (Posição 7, 5/36 variantes); C -> H (Posição 5, 2/36 variantes)"
+3,11,1.7777777777777777,"C -> H (Posição 6, 6/36 variantes); C -> H (Posição 7, 5/36 variantes); C -> H (Posição 5, 2/36 variantes)"
+4,12,5.222222222222222,"H -> C (Posição 12, 31/36 variantes); C -> H (Posição 6, 6/36 variantes); C -> H (Posição 7, 5/36 variantes)"
+5,13,8.666666666666666,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 6, 6/36 variantes)"
+6,14,8.444444444444445,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 6, 6/36 variantes)"
+7,15,7.777777777777778,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 7, 5/36 variantes)"
+8,16,7.222222222222222,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 9, 1/36 variantes)"
+9,17,7.222222222222222,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 9, 1/36 variantes)"
+10,18,7.111111111111111,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 10, 1/36 variantes)"
+11,19,7.0,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes); C -> H (Posição 11, 1/36 variantes)"
+12,20,6.888888888888889,"H -> C (Posição 12, 31/36 variantes); H -> C (Posição 13, 31/36 variantes)"
+13,21,3.4444444444444446,"H -> C (Posição 13, 31/36 variantes)"
+14,22,0.0,Sem transições registradas
+15,23,0.0,Sem transições registradas
+16,24,0.0,Sem transições registradas
+17,25,0.0,Sem transições registradas
+18,26,0.0,Sem transições registradas
+19,27,0.0,Sem transições registradas
+20,28,0.0,Sem transições registradas
+21,29,0.0,Sem transições registradas
+22,30,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+23,31,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+24,32,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+25,33,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+26,34,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+27,35,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+28,36,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+29,37,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+30,38,0.2222222222222222,"C -> H (Posição 30, 2/36 variantes)"
+31,39,0.0,Sem transições registradas
+32,40,0.0,Sem transições registradas
+33,41,0.0,Sem transições registradas
+34,42,0.0,Sem transições registradas
+35,43,0.0,Sem transições registradas
+36,44,0.0,Sem transições registradas
+37,45,0.0,Sem transições registradas
+38,46,0.0,Sem transições registradas
+39,47,0.0,Sem transições registradas
+40,48,0.0,Sem transições registradas
+41,49,0.0,Sem transições registradas
+42,50,0.0,Sem transições registradas
+43,51,0.0,Sem transições registradas
+44,52,0.0,Sem transições registradas
+45,53,0.0,Sem transições registradas
+46,54,0.0,Sem transições registradas
+47,55,0.0,Sem transições registradas
+48,56,0.0,Sem transições registradas
+49,57,0.0,Sem transições registradas
+50,58,0.0,Sem transições registradas
+51,59,0.0,Sem transições registradas
+52,60,0.0,Sem transições registradas
+53,61,0.5555555555555556,"H -> C (Posição 61, 5/36 variantes)"
+54,62,0.5555555555555556,"H -> C (Posição 61, 5/36 variantes)"
+55,63,2.888888888888889,"C -> H (Posição 63, 21/36 variantes); H -> C (Posição 61, 5/36 variantes)"
+56,64,5.222222222222222,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); H -> C (Posição 61, 5/36 variantes)"
+57,65,5.333333333333333,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); H -> C (Posição 61, 5/36 variantes)"
+58,66,5.333333333333333,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); H -> C (Posição 61, 5/36 variantes)"
+59,67,5.333333333333333,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); H -> C (Posição 61, 5/36 variantes)"
+60,68,7.666666666666667,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); C -> H (Posição 68, 21/36 variantes)"
+61,69,7.666666666666667,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); C -> H (Posição 68, 21/36 variantes)"
+62,70,7.111111111111111,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); C -> H (Posição 68, 21/36 variantes)"
+63,71,7.111111111111111,"C -> H (Posição 63, 21/36 variantes); C -> H (Posição 64, 21/36 variantes); C -> H (Posição 68, 21/36 variantes)"
+64,72,4.777777777777778,"C -> H (Posição 64, 21/36 variantes); C -> H (Posição 68, 21/36 variantes); C -> H (Posição 65, 1/36 variantes)"
+65,73,2.4444444444444446,"C -> H (Posição 68, 21/36 variantes); C -> H (Posição 65, 1/36 variantes)"
+66,74,2.3333333333333335,"C -> H (Posição 68, 21/36 variantes)"
+67,75,2.3333333333333335,"C -> H (Posição 68, 21/36 variantes)"
+68,76,2.3333333333333335,"C -> H (Posição 68, 21/36 variantes)"
+69,77,0.0,Sem transições registradas
+70,78,0.0,Sem transições registradas
+71,79,0.0,Sem transições registradas
+72,80,0.0,Sem transições registradas
+73,81,0.0,Sem transições registradas
+74,82,0.0,Sem transições registradas
+75,83,0.0,Sem transições registradas
+76,84,0.0,Sem transições registradas
+77,85,0.0,Sem transições registradas
+78,86,0.0,Sem transições registradas
+79,87,0.0,Sem transições registradas
+80,88,0.0,Sem transições registradas
+81,89,0.0,Sem transições registradas
+82,90,0.0,Sem transições registradas
+83,91,0.0,Sem transições registradas
+84,92,0.0,Sem transições registradas
+85,93,0.0,Sem transições registradas
+86,94,0.0,Sem transições registradas
+87,95,0.0,Sem transições registradas
+88,96,0.0,Sem transições registradas
+89,97,0.0,Sem transições registradas
+90,98,0.0,Sem transições registradas
+91,99,0.0,Sem transições registradas
+92,100,0.0,Sem transições registradas
+93,101,0.0,Sem transições registradas
+94,102,0.0,Sem transições registradas
+95,103,0.4444444444444444,"C -> H (Posição 103, 4/36 variantes)"
+96,104,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+97,105,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+98,106,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+99,107,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+100,108,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+101,109,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+102,110,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+103,111,2.111111111111111,"C -> H (Posição 104, 15/36 variantes); C -> H (Posição 103, 4/36 variantes)"
+104,112,1.6666666666666667,"C -> H (Posição 104, 15/36 variantes)"
+105,113,0.0,Sem transições registradas
+106,114,0.0,Sem transições registradas
+107,115,0.0,Sem transições registradas
+108,116,0.0,Sem transições registradas
+109,117,0.0,Sem transições registradas
+110,118,0.0,Sem transições registradas
+111,119,0.0,Sem transições registradas
+112,120,0.0,Sem transições registradas
+113,121,0.0,Sem transições registradas
+114,122,0.0,Sem transições registradas
+115,123,0.0,Sem transições registradas
+116,124,0.0,Sem transições registradas
+117,125,0.0,Sem transições registradas
+118,126,0.0,Sem transições registradas
+119,127,0.0,Sem transições registradas
+120,128,0.0,Sem transições registradas
+121,129,0.0,Sem transições registradas
+122,130,0.0,Sem transições registradas
+123,131,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+124,132,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+125,133,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+126,134,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+127,135,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+128,136,0.2222222222222222,"H -> C (Posição 131, 2/36 variantes)"
+129,137,0.4444444444444444,"H -> C (Posição 131, 2/36 variantes); H -> C (Posição 137, 2/36 variantes)"
+130,138,0.4444444444444444,"H -> C (Posição 131, 2/36 variantes); H -> C (Posição 137, 2/36 variantes)"
+131,139,0.4444444444444444,"H -> C (Posição 131, 2/36 variantes); H -> C (Posição 137, 2/36 variantes)"
+132,140,3.0,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 137, 2/36 variantes)"
+133,141,5.777777777777778,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 137, 2/36 variantes)"
+134,142,6.666666666666667,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 142, 8/36 variantes)"
+135,143,6.666666666666667,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 142, 8/36 variantes)"
+136,144,6.666666666666667,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 142, 8/36 variantes)"
+137,145,6.777777777777778,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 142, 8/36 variantes)"
+138,146,8.0,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 146, 13/36 variantes)"
+139,147,8.666666666666666,"H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 146, 13/36 variantes)"
+140,148,12.11111111111111,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 140, 25/36 variantes); H -> C (Posição 141, 25/36 variantes)"
+141,149,9.333333333333334,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 141, 25/36 variantes); H -> C (Posição 146, 13/36 variantes)"
+142,150,6.555555555555555,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 146, 13/36 variantes); H -> C (Posição 142, 8/36 variantes)"
+143,151,5.666666666666667,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 146, 13/36 variantes); C -> H (Posição 147, 6/36 variantes)"
+144,152,5.666666666666667,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 146, 13/36 variantes); C -> H (Posição 147, 6/36 variantes)"
+145,153,5.666666666666667,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 146, 13/36 variantes); C -> H (Posição 147, 6/36 variantes)"
+146,154,5.555555555555555,"C -> H (Posição 148, 31/36 variantes); H -> C (Posição 146, 13/36 variantes); C -> H (Posição 147, 6/36 variantes)"
+147,155,4.111111111111111,"C -> H (Posição 148, 31/36 variantes); C -> H (Posição 147, 6/36 variantes)"
+148,156,3.4444444444444446,"C -> H (Posição 148, 31/36 variantes)"
+149,157,0.0,Sem transições registradas
+150,158,0.0,Sem transições registradas
+151,159,0.0,Sem transições registradas
+152,160,0.0,Sem transições registradas
+153,161,0.0,Sem transições registradas
+154,162,0.0,Sem transições registradas
+155,163,0.0,Sem transições registradas
+156,164,0.0,Sem transições registradas
+157,165,0.0,Sem transições registradas
+158,166,0.0,Sem transições registradas
+159,167,0.0,Sem transições registradas
+160,168,0.0,Sem transições registradas
+161,169,0.0,Sem transições registradas
+162,170,0.0,Sem transições registradas
+163,171,0.0,Sem transições registradas
+164,172,0.0,Sem transições registradas
+165,173,0.0,Sem transições registradas
+166,174,0.0,Sem transições registradas
+167,175,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+168,176,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+169,177,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+170,178,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+171,179,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+172,180,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+173,181,2.111111111111111,"H -> C (Posição 175, 19/36 variantes)"
+174,182,2.2222222222222223,"H -> C (Posição 175, 19/36 variantes); C -> H (Posição 182, 1/36 variantes)"
+175,183,3.5555555555555554,"H -> C (Posição 175, 19/36 variantes); C -> H (Posição 183, 12/36 variantes); C -> H (Posição 182, 1/36 variantes)"
+176,184,3.6666666666666665,"H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes); C -> H (Posição 182, 1/36 variantes)"
+177,185,6.888888888888889,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+178,186,7.666666666666667,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+179,187,8.555555555555555,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+180,188,9.222222222222221,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+181,189,9.333333333333334,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+182,190,9.333333333333334,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+183,191,9.222222222222221,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> H (Posição 183, 12/36 variantes)"
+184,192,8.333333333333334,"H -> C (Posição 185, 26/36 variantes); H -> C (Posição 184, 19/36 variantes); C -> E (Posição 187, 8/36 variantes)"
+185,193,6.111111111111111,"H -> C (Posição 185, 26/36 variantes); C -> E (Posição 187, 8/36 variantes); C -> E (Posição 186, 7/36 variantes)"
+186,194,2.888888888888889,"C -> E (Posição 187, 8/36 variantes); C -> E (Posição 186, 7/36 variantes); C -> E (Posição 188, 6/36 variantes)"
+187,195,2.111111111111111,"C -> E (Posição 187, 8/36 variantes); C -> E (Posição 188, 6/36 variantes); H -> C (Posição 192, 4/36 variantes)"
+188,196,1.2222222222222223,"C -> E (Posição 188, 6/36 variantes); H -> C (Posição 192, 4/36 variantes); C -> E (Posição 189, 1/36 variantes)"
+189,197,0.5555555555555556,"H -> C (Posição 192, 4/36 variantes); C -> E (Posição 189, 1/36 variantes)"
+190,198,0.4444444444444444,"H -> C (Posição 192, 4/36 variantes)"
+191,199,0.4444444444444444,"H -> C (Posição 192, 4/36 variantes)"
+192,200,0.6666666666666666,"H -> C (Posição 192, 4/36 variantes); H -> C (Posição 200, 2/36 variantes)"
+193,201,0.5555555555555556,"C -> H (Posição 201, 3/36 variantes); H -> C (Posição 200, 2/36 variantes)"
+194,202,1.8888888888888888,"H -> C (Posição 202, 12/36 variantes); C -> H (Posição 201, 3/36 variantes); H -> C (Posição 200, 2/36 variantes)"
+195,203,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+196,204,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+197,205,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+198,206,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+199,207,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+200,208,2.3333333333333335,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+201,209,2.111111111111111,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes); C -> H (Posição 201, 3/36 variantes)"
+202,210,1.7777777777777777,"H -> C (Posição 202, 12/36 variantes); H -> C (Posição 203, 4/36 variantes)"
+203,211,0.4444444444444444,"H -> C (Posição 203, 4/36 variantes)"
+204,212,0.0,Sem transições registradas
+205,213,0.0,Sem transições registradas
+206,214,0.0,Sem transições registradas
+207,215,0.0,Sem transições registradas
+208,216,0.0,Sem transições registradas
+209,217,0.0,Sem transições registradas
+210,218,0.0,Sem transições registradas
+211,219,0.0,Sem transições registradas
+212,220,0.0,Sem transições registradas
+213,221,0.0,Sem transições registradas
+214,222,0.0,Sem transições registradas
+215,223,0.0,Sem transições registradas
+216,224,0.0,Sem transições registradas
+217,225,0.0,Sem transições registradas
+218,226,0.0,Sem transições registradas
+219,227,0.0,Sem transições registradas
+220,228,0.0,Sem transições registradas
+221,229,0.0,Sem transições registradas
+222,230,1.1111111111111112,"H -> C (Posição 230, 10/36 variantes)"
+223,231,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+224,232,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+225,233,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+226,234,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+227,235,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+228,236,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+229,237,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+230,238,2.111111111111111,"H -> C (Posição 230, 10/36 variantes); C -> H (Posição 231, 9/36 variantes)"
+231,239,1.0,"C -> H (Posição 231, 9/36 variantes)"
+232,240,0.0,Sem transições registradas
+233,241,0.0,Sem transições registradas
+234,242,0.0,Sem transições registradas
+235,243,0.0,Sem transições registradas
+236,244,0.0,Sem transições registradas
+237,245,0.0,Sem transições registradas
+238,246,0.0,Sem transições registradas
+239,247,0.0,Sem transições registradas
+240,248,0.0,Sem transições registradas
+241,249,0.0,Sem transições registradas
+242,250,0.0,Sem transições registradas
+243,251,0.0,Sem transições registradas
+244,252,0.0,Sem transições registradas
+245,253,0.0,Sem transições registradas
+246,254,0.0,Sem transições registradas
+247,255,0.0,Sem transições registradas
+248,256,0.0,Sem transições registradas
+249,257,0.0,Sem transições registradas
+250,258,0.0,Sem transições registradas
+251,259,0.0,Sem transições registradas
+252,260,0.0,Sem transições registradas
+253,261,0.0,Sem transições registradas
+254,262,0.0,Sem transições registradas
+255,263,0.0,Sem transições registradas
+256,264,0.0,Sem transições registradas
+257,265,0.0,Sem transições registradas
+258,266,0.0,Sem transições registradas
+259,267,0.0,Sem transições registradas
+260,268,0.0,Sem transições registradas
+261,269,0.0,Sem transições registradas
+262,270,0.0,Sem transições registradas
+263,271,0.0,Sem transições registradas
+264,272,0.0,Sem transições registradas
+265,273,0.0,Sem transições registradas
+266,274,0.0,Sem transições registradas
+267,275,0.0,Sem transições registradas
+268,276,0.0,Sem transições registradas
+269,277,0.0,Sem transições registradas
+270,278,0.0,Sem transições registradas
+271,279,0.0,Sem transições registradas
+272,280,0.0,Sem transições registradas
+273,281,0.0,Sem transições registradas
+274,282,0.0,Sem transições registradas
+275,283,0.0,Sem transições registradas
+276,284,0.0,Sem transições registradas
+277,285,0.0,Sem transições registradas
+278,286,0.0,Sem transições registradas
+279,287,0.0,Sem transições registradas
+280,288,0.0,Sem transições registradas
+281,289,0.0,Sem transições registradas
+282,290,0.0,Sem transições registradas
+283,291,0.0,Sem transições registradas
+284,292,0.0,Sem transições registradas
+285,293,0.0,Sem transições registradas
+286,294,0.0,Sem transições registradas
+287,295,0.0,Sem transições registradas
+288,296,0.0,Sem transições registradas
+289,297,0.0,Sem transições registradas
+290,298,0.0,Sem transições registradas
+291,299,0.0,Sem transições registradas
+292,300,0.0,Sem transições registradas
+293,301,0.0,Sem transições registradas
+294,302,0.0,Sem transições registradas
+295,303,0.0,Sem transições registradas
+296,304,0.0,Sem transições registradas
+297,305,0.0,Sem transições registradas
+298,306,0.0,Sem transições registradas
+299,307,0.0,Sem transições registradas
+300,308,0.0,Sem transições registradas
+301,309,0.0,Sem transições registradas
+302,310,0.0,Sem transições registradas
+303,311,0.0,Sem transições registradas
+304,312,0.0,Sem transições registradas
+305,313,0.0,Sem transições registradas
+306,314,0.1111111111111111,"C -> H (Posição 314, 1/36 variantes)"
+307,315,2.7777777777777777,"H -> C (Posição 315, 24/36 variantes); C -> H (Posição 314, 1/36 variantes)"
+308,316,5.444444444444445,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 314, 1/36 variantes)"
+309,317,6.0,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+310,318,6.555555555555555,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+311,319,6.666666666666667,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+312,320,6.666666666666667,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+313,321,6.666666666666667,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+314,322,6.666666666666667,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+315,323,6.555555555555555,"H -> C (Posição 315, 24/36 variantes); H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes)"
+316,324,3.888888888888889,"H -> C (Posição 316, 24/36 variantes); C -> H (Posição 317, 5/36 variantes); C -> H (Posição 318, 5/36 variantes)"
+317,325,1.2222222222222223,"C -> H (Posição 317, 5/36 variantes); C -> H (Posição 318, 5/36 variantes); C -> H (Posição 319, 1/36 variantes)"
+318,326,0.6666666666666666,"C -> H (Posição 318, 5/36 variantes); C -> H (Posição 319, 1/36 variantes)"
+319,327,0.1111111111111111,"C -> H (Posição 319, 1/36 variantes)"
+320,328,0.0,Sem transições registradas
+321,329,0.3333333333333333,"C -> H (Posição 329, 3/36 variantes)"
+322,330,0.7777777777777778,"C -> H (Posição 330, 4/36 variantes); C -> H (Posição 329, 3/36 variantes)"
+323,331,1.2222222222222223,"C -> H (Posição 330, 4/36 variantes); C -> H (Posição 331, 4/36 variantes); C -> H (Posição 329, 3/36 variantes)"
+324,332,1.6666666666666667,"C -> H (Posição 330, 4/36 variantes); C -> H (Posição 331, 4/36 variantes); C -> H (Posição 332, 4/36 variantes)"
+325,333,4.666666666666667,"H -> C (Posição 333, 27/36 variantes); C -> H (Posição 330, 4/36 variantes); C -> H (Posição 331, 4/36 variantes)"
+326,334,7.111111111111111,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 334, 22/36 variantes); C -> H (Posição 330, 4/36 variantes)"
+327,335,8.222222222222221,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 334, 22/36 variantes); C -> H (Posição 335, 10/36 variantes)"
+328,336,8.88888888888889,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 334, 22/36 variantes); C -> H (Posição 335, 10/36 variantes)"
+329,337,11.444444444444445,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 334, 22/36 variantes)"
+330,338,13.666666666666666,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 338, 23/36 variantes)"
+331,339,16.0,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes)"
+332,340,18.11111111111111,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes)"
+333,341,19.77777777777778,"H -> C (Posição 333, 27/36 variantes); H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes)"
+334,342,18.77777777777778,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 338, 23/36 variantes)"
+335,343,17.11111111111111,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 338, 23/36 variantes)"
+336,344,16.555555555555557,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 338, 23/36 variantes)"
+337,345,15.88888888888889,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 337, 23/36 variantes); H -> C (Posição 338, 23/36 variantes)"
+338,346,13.333333333333334,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 338, 23/36 variantes); H -> C (Posição 340, 23/36 variantes)"
+339,347,10.777777777777779,"H -> C (Posição 339, 25/36 variantes); H -> C (Posição 340, 23/36 variantes); H -> C (Posição 341, 19/36 variantes)"
+340,348,8.0,"H -> C (Posição 340, 23/36 variantes); H -> C (Posição 341, 19/36 variantes); H -> C (Posição 342, 18/36 variantes)"
+341,349,5.444444444444445,"H -> C (Posição 341, 19/36 variantes); H -> C (Posição 342, 18/36 variantes); H -> C (Posição 343, 7/36 variantes)"
+342,350,3.3333333333333335,"H -> C (Posição 342, 18/36 variantes); H -> C (Posição 343, 7/36 variantes); H -> C (Posição 344, 5/36 variantes)"
+343,351,1.3333333333333333,"H -> C (Posição 343, 7/36 variantes); H -> C (Posição 344, 5/36 variantes)"
+344,352,0.5555555555555556,"H -> C (Posição 344, 5/36 variantes)"
+345,353,0.0,Sem transições registradas
+346,354,0.0,Sem transições registradas
+347,355,0.0,Sem transições registradas
+348,356,0.0,Sem transições registradas
+349,357,0.0,Sem transições registradas
+350,358,0.0,Sem transições registradas
+351,359,0.0,Sem transições registradas
+352,360,0.0,Sem transições registradas
+353,361,0.0,Sem transições registradas
+354,362,0.0,Sem transições registradas
+355,363,0.0,Sem transições registradas
+356,364,0.0,Sem transições registradas
+357,365,0.1111111111111111,"H -> C (Posição 365, 1/36 variantes)"
+358,366,1.1111111111111112,"H -> C (Posição 366, 9/36 variantes); H -> C (Posição 365, 1/36 variantes)"
+359,367,3.2222222222222223,"H -> C (Posição 367, 19/36 variantes); H -> C (Posição 366, 9/36 variantes); H -> C (Posição 365, 1/36 variantes)"
+360,368,5.333333333333333,"H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes); H -> C (Posição 366, 9/36 variantes)"
+361,369,7.444444444444445,"H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes); H -> C (Posição 369, 19/36 variantes)"
+362,370,9.555555555555555,"H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes); H -> C (Posição 369, 19/36 variantes)"
+363,371,12.555555555555555,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes)"
+364,372,12.555555555555555,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes)"
+365,373,12.555555555555555,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes)"
+366,374,12.444444444444445,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes)"
+367,375,11.444444444444445,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 367, 19/36 variantes); H -> C (Posição 368, 19/36 variantes)"
+368,376,9.333333333333334,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 368, 19/36 variantes); H -> C (Posição 369, 19/36 variantes)"
+369,377,7.222222222222222,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 369, 19/36 variantes); H -> C (Posição 370, 19/36 variantes)"
+370,378,5.111111111111111,"H -> C (Posição 371, 27/36 variantes); H -> C (Posição 370, 19/36 variantes)"
+371,379,3.0,"H -> C (Posição 371, 27/36 variantes)"
+372,380,0.0,Sem transições registradas
+373,381,0.0,Sem transições registradas
+374,382,0.0,Sem transições registradas
+375,383,0.0,Sem transições registradas
+376,384,0.0,Sem transições registradas
+377,385,0.0,Sem transições registradas
+378,386,0.0,Sem transições registradas
+379,387,0.0,Sem transições registradas
+380,388,0.0,Sem transições registradas
+381,389,0.0,Sem transições registradas
+382,390,0.0,Sem transições registradas
+383,391,0.0,Sem transições registradas
+384,392,0.0,Sem transições registradas
+385,393,0.0,Sem transições registradas
+386,394,0.0,Sem transições registradas
+387,395,0.0,Sem transições registradas
+388,396,0.0,Sem transições registradas
+389,397,0.0,Sem transições registradas
+390,398,0.0,Sem transições registradas
+391,399,0.0,Sem transições registradas
+392,400,0.0,Sem transições registradas
+393,401,0.0,Sem transições registradas
+394,402,0.0,Sem transições registradas
+395,403,0.0,Sem transições registradas
+396,404,0.0,Sem transições registradas
+397,405,0.0,Sem transições registradas
+398,406,0.0,Sem transições registradas
+399,407,0.0,Sem transições registradas
+400,408,0.0,Sem transições registradas
+401,409,0.0,Sem transições registradas
+402,410,0.0,Sem transições registradas
+403,411,0.0,Sem transições registradas
+404,412,0.0,Sem transições registradas
+405,413,0.0,Sem transições registradas
+406,414,0.0,Sem transições registradas
+407,415,0.0,Sem transições registradas
+408,416,0.0,Sem transições registradas
+409,417,0.0,Sem transições registradas
+410,418,0.0,Sem transições registradas
+411,419,0.0,Sem transições registradas
